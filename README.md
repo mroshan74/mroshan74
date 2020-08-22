@@ -32,7 +32,7 @@
 <br>
 <br>
 
-[![Roshans's github stats](https://github-readme-stats-git-master.mroshan74.vercel.app/api?username=mroshan74)](https://github.com/anuraghazra/github-readme-stats)
+[![Roshans's github stats](https://github-readme-stats-git-master.mroshan74.vercel.app/api?username=mroshan74)](https://github.com/mroshan74/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/muhammedroshan/
