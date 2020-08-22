@@ -7,9 +7,9 @@
 
 ### Connect with me: 
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]()
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]()
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]()
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]([github])
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]([gmail])
 
 <br />
 
@@ -29,7 +29,12 @@
 <img align="left" style="color:#0081CB;" height="32" width="32" src="https://simpleicons.org/icons/material-ui.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-<br />
-<br />
+<br>
+<br>
 
 [![Roshans's github stats](https://github-readme-stats-git-master.mroshan74.vercel.app/api?username=mroshan74)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/muhammedroshan/
+[github]: https://github.com/mroshan74/
+[gmail]: mailto:mroshan74@gmail.com
