@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Developer, Content Creator and a Freelancer!
 - 🌱 Trying to catch up with latest techs :laughing:
-- 🔥 2020 Goals: Contribute more to Open Source projects
+- 🔥 2021 Goals: Contribute more to Open Source projects
 - :zap: Hobbies: I love to draw and admire digital art work / styles (favorites: WLOP and ShalE)
 
 ### Connect with me: 
