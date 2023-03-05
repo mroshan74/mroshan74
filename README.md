@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Developer, Content Creator and a Freelancer!
 - 🌱 Trying to catch up with latest techs :laughing:
-- 🔥 2021 Goals: Contribute more to Open Source projects
+- 🔥 2023 Goals: Contribute more to Open Source projects
 - :zap: Hobbies: I love to draw and admire digital art work / styles (favorites: WLOP and ShalE)
 
 ### Connect with me: 
@@ -26,7 +26,7 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" style="color:#0081CB;" height="32" width="32" src="https://simpleicons.org/icons/material-ui.svg" />
+<img align="left" style="color:#0081CB;" height="32" width="32" src="https://v4.material-ui.com/static/logo.png" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <br/>
